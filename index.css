@@ -1,3 +1,7 @@
+#header-nav .text-platzi{
+    color: #97c93e;
+}
+
 #footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
 }
@@ -6,3 +10,8 @@
     color: white;
     text-decoration: none;
 }
+
+#header-nav a img{
+    width: 7vw;   
+}
+
